@@ -1,0 +1,26 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "To do the task ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dheeraj-a99/ToDoApp.git"
+  },
+  "author": "Dheeraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dheeraj-a99/ToDoApp/issues"
+  },
+  "homepage": "https://github.com/Dheeraj-a99/ToDoApp#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.3",
+    "nodemon": "^3.0.1"
+  }
+}
